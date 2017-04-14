@@ -15,13 +15,14 @@
 |143|IMAP 邮件服务|
 |161|SNMP 服务器|
 |443|HTTPS Web服务|
-|443|OpenSSL安全套阶层|
 |445|SMB 共享服务|
 |515|打印机服务|
+|873|RSync 服务|
 |1027|IIS 服务|
 |1080|Socks 代理服务|
 |1433|SQLServer 数据库|
 |1521| Oracle 数据库|
+|2181|ZooKeeper 分布式服务|
 |3306|MySQL 数据库|
 |3690|SVN 代理服务|
 |3389|Windows 远程桌面|
