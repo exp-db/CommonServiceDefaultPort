@@ -61,7 +61,8 @@
 |9107|JetDirect 打印机服务|
 |9200|ElasticSearch 索引服务|
 |11211|Memcached 缓存服务|
-|27017| MongoDB 数据库|
+|27017|MongoDB 数据库|
+|50000|DB2 数据库|
 |61616|ActiveMQ消息队列服务|
 
 参考： WVS Port Scanner 模块（当然不仅仅是这些）
